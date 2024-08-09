@@ -2,7 +2,8 @@
 
 ![image](https://github.com/kostegs/StarWars_Cinematic/assets/23431429/93623e57-e55d-4051-bcef-0fe9d7e803c8)
 
-My current learning project. Basics of Unreal Engine mechanisms: scene, materials, lighting, sequencer, animation etc. 
+Learning project and my first cinematic, using Unreal Engine. 
+Basics of Unreal Engine mechanisms: scene, materials, lighting, sequencer, animation etc. 
 
 Learning program: 
 
